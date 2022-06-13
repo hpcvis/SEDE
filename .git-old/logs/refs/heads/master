@@ -1,0 +1,73 @@
+0000000000000000000000000000000000000000 5e8a7808ecb79782d28050d66ca5e0835fd0139b Fred Harris <fredh@alpine> 1586798599 +0000	clone: from http://source1.cse.unr.edu/diffusion/S/sede.git
+5e8a7808ecb79782d28050d66ca5e0835fd0139b b0bb959fd716618669fade60354fc6fc8462acd0 Fred Harris <fredh@alpine> 1586800126 +0000	commit: 2020 init
+b0bb959fd716618669fade60354fc6fc8462acd0 205ea805c6c343f8510d22e2d232e8e71237f15a Fred Harris <fredh@alpine> 1586804955 +0000	commit: 2020 init
+205ea805c6c343f8510d22e2d232e8e71237f15a c2cc1b0fd600fc66595b86f58fc91891f26b8e72 Fred Harris <fredh@alpine> 1586815980 +0000	pull: Merge made by the 'recursive' strategy.
+c2cc1b0fd600fc66595b86f58fc91891f26b8e72 b3702e8bd3632e4aea5a5401fc2df9a001828406 Fred Harris <fredh@alpine> 1586817110 +0000	commit: 2020 init
+b3702e8bd3632e4aea5a5401fc2df9a001828406 da4575986aaa7809c0d3a7d9abe2e9f935ded979 Fred Harris <fredh@alpine> 1586817639 +0000	commit: 2020 init
+da4575986aaa7809c0d3a7d9abe2e9f935ded979 66d9f5cfa02fb7c7b04ddfaba9c8d1556ff3eb8f Fred Harris <fredh@alpine> 1586817821 +0000	commit: 2020 init
+66d9f5cfa02fb7c7b04ddfaba9c8d1556ff3eb8f 7cf3a4dedee81a9020fdef726b5d485ad2228dfb Fred Harris <fredh@alpine> 1586818291 +0000	commit: 2020 init
+7cf3a4dedee81a9020fdef726b5d485ad2228dfb 3e5fff116fa74ddd10cf9b677db1ce38618cdb00 Fred Harris <fredh@alpine> 1586818652 +0000	commit: 2020 init
+3e5fff116fa74ddd10cf9b677db1ce38618cdb00 64e6eff1bf53c928883622b30ce52143850517ec Fred Harris <fredh@alpine> 1586818968 +0000	commit: 2020 init
+64e6eff1bf53c928883622b30ce52143850517ec 68f8b006ba9da4d3e539eeff15288dcdb86d960d Fred Harris <fredh@alpine> 1586819290 +0000	commit: 2020 init
+68f8b006ba9da4d3e539eeff15288dcdb86d960d 013d6d9de522d5ead37f7e63c0b1c7229dd97c02 Fred Harris <fredh@alpine> 1586819687 +0000	commit: 2020 init
+013d6d9de522d5ead37f7e63c0b1c7229dd97c02 acb160affaddbea92ba32c6c57690210880fa9ad Fred Harris <fredh@alpine> 1586820579 +0000	commit: 2020 init
+acb160affaddbea92ba32c6c57690210880fa9ad a09cb6d7af2c2a82f6cda469a1584d52d9c0c86f Fred Harris <fredh@alpine> 1586820662 +0000	commit: 2020 init
+a09cb6d7af2c2a82f6cda469a1584d52d9c0c86f 1f575cbfcee8e6dc651c36b27a015fcd263fca2a Fred Harris <fredh@alpine> 1586820731 +0000	commit: 2020 init
+1f575cbfcee8e6dc651c36b27a015fcd263fca2a e5fd2f0f8ab7a807e353d8798460b694c29c1276 Fred Harris <fredh@alpine> 1586821237 +0000	commit: 2020 init
+e5fd2f0f8ab7a807e353d8798460b694c29c1276 223dc06b4c327dbe8482f91ff4f5de9bb8ad45b4 Fred Harris <fredh@alpine> 1586821326 +0000	commit: 2020 init
+223dc06b4c327dbe8482f91ff4f5de9bb8ad45b4 a20266c1abe19ac25eb1b5cff252feb43f01e453 Fred Harris <fredh@alpine> 1586821704 +0000	commit: 2020 init
+a20266c1abe19ac25eb1b5cff252feb43f01e453 6c04e0f50fd4245424febdc7384092a159aa6a4c Fred Harris <fredh@alpine> 1586821828 +0000	commit: 2020 init
+6c04e0f50fd4245424febdc7384092a159aa6a4c f27c2e12d0086492ddb5eb9867fc5d63679eee83 Fred Harris <fredh@alpine> 1586821924 +0000	commit: 2020 init
+f27c2e12d0086492ddb5eb9867fc5d63679eee83 a58af07c7cbdd0e56777e36f444f411427de4877 Fred Harris <fredh@alpine> 1586821986 +0000	commit: 2020 init
+a58af07c7cbdd0e56777e36f444f411427de4877 4eba6a861b49a44510a5a8446a4aab89ba6db3a9 Fred Harris <fredh@alpine> 1586822182 +0000	commit: 2020 init
+4eba6a861b49a44510a5a8446a4aab89ba6db3a9 6255f6a163881105ccaf678a4d9ae92650be7577 Fred Harris <fredh@alpine> 1586822228 +0000	commit: 2020 init
+6255f6a163881105ccaf678a4d9ae92650be7577 7a1c85323f517fb1711d9f6c6c2fa9be834225c1 Fred Harris <fredh@alpine> 1586822264 +0000	commit: 2020 init
+7a1c85323f517fb1711d9f6c6c2fa9be834225c1 9826c940ec9869777f36d9837288d8a79e9183c9 Fred Harris <fredh@alpine> 1586987733 +0000	commit: 2020 init
+9826c940ec9869777f36d9837288d8a79e9183c9 9e8856fc1e0ffd90b7db71878d8a069d0adad80f Fred Harris <fredh@alpine> 1586987798 +0000	commit: 2020 init
+9e8856fc1e0ffd90b7db71878d8a069d0adad80f bdbe9fd802bb86abb1f4aaa6ca59426c690a2837 Fred Harris <fredh@alpine> 1587059380 +0000	commit: update Committee
+bdbe9fd802bb86abb1f4aaa6ca59426c690a2837 93fdf970c60e78ec882d9388e1b144348387f3fd Fred Harris <fredh@alpine> 1587059574 +0000	commit: fix typo
+93fdf970c60e78ec882d9388e1b144348387f3fd 1291c69b2fa323cd28a6f537bd8c48fd354030b8 Fred Harris <fredh@alpine> 1587060102 +0000	commit: fix link
+1291c69b2fa323cd28a6f537bd8c48fd354030b8 bfcc031c3cdb690a7f39416b46a08bcf32a6b8fe Fred Harris <fredh@alpine> 1587596301 +0000	commit: Add COVID msg to front
+bfcc031c3cdb690a7f39416b46a08bcf32a6b8fe fe914652984b6e6ce0d2a36dc3343e854e4934f3 Fred Harris <fredh@alpine> 1587596388 +0000	commit: Add COVID msg to front
+fe914652984b6e6ce0d2a36dc3343e854e4934f3 e83aa28b755e675156aca234994f621e6eb5fd57 Fred Harris <fredh@alpine> 1587596471 +0000	commit: Add COVID msg to front
+e83aa28b755e675156aca234994f621e6eb5fd57 cdbe6cdbc5b576823a9b4da9af25255d0e1132b8 Fred Harris <fredh@cse.unr.edu> 1590777869 +0000	commit: data change
+cdbe6cdbc5b576823a9b4da9af25255d0e1132b8 3d73f91b753c17ad865178b16dc9e293946c7811 Fred Harris <fredh@cse.unr.edu> 1590778161 +0000	commit: date change
+3d73f91b753c17ad865178b16dc9e293946c7811 87cbe3262bdc721dfec15e104efbb8dd0282fdcf Fred Harris <fredh@cse.unr.edu> 1594145472 +0000	commit: Extension
+87cbe3262bdc721dfec15e104efbb8dd0282fdcf 7544b304066b190cc0419bfa6d849f714736c7a1 Fred Harris <fredh@cse.unr.edu> 1595968389 +0000	commit: Registration Forms
+7544b304066b190cc0419bfa6d849f714736c7a1 83da9ecd0dc1318d2e88437d006d8843e7d4ff02 Fred Harris <fredh@cse.unr.edu> 1595968868 +0000	commit: Registration Forms 2
+83da9ecd0dc1318d2e88437d006d8843e7d4ff02 ed11b4777e8894cf2bc531c296ebf207ff6fc59f Fred Harris <fredh@cse.unr.edu> 1602699185 +0000	commit: keynote and program
+ed11b4777e8894cf2bc531c296ebf207ff6fc59f bed85a1cb68a9bb6309496153e0d997998dabbff Fred Harris <fredh@cse.unr.edu> 1602699282 +0000	commit: keynote
+bed85a1cb68a9bb6309496153e0d997998dabbff 9a71c42337e1349d9f2b0a8c22ec4566ce2f1d85 Fred Harris <fredh@cse.unr.edu> 1602699367 +0000	commit: keynote
+9a71c42337e1349d9f2b0a8c22ec4566ce2f1d85 359b4ff6dbfc4ff8e8d46359017c023655038caf Fred Harris <fredh@cse.unr.edu> 1602699580 +0000	commit: style
+359b4ff6dbfc4ff8e8d46359017c023655038caf 5ae42377de0088d434185c5c9980108efc9979ad Fred Harris <fredh@cse.unr.edu> 1602699679 +0000	commit: keynote
+5ae42377de0088d434185c5c9980108efc9979ad b4952dd966d551f82850a223a1dcefab34771469 Fred Harris <fredh@cse.unr.edu> 1602700092 +0000	commit: program
+b4952dd966d551f82850a223a1dcefab34771469 e06a8308d81acad36a2f3a3c15c8e233c5a7b632 Fred Harris <fredh@cse.unr.edu> 1603128233 +0000	commit: program update
+e06a8308d81acad36a2f3a3c15c8e233c5a7b632 b20c1b99ac325e300e6fb3bb9b648e0cfcb47d6d Fred Harris <fredh@cse.unr.edu> 1603132582 +0000	commit: program update
+b20c1b99ac325e300e6fb3bb9b648e0cfcb47d6d 5b85e3033cb1bc6d514dba63f51887f2c252c9b6 Fred Harris <fredh@cse.unr.edu> 1603136391 +0000	commit: program update
+5b85e3033cb1bc6d514dba63f51887f2c252c9b6 d19b2226d9750523f3ae40e57312334da4729748 Fred Harris <fredh@cse.unr.edu> 1610576234 +0000	commit: 2021 start
+d19b2226d9750523f3ae40e57312334da4729748 1ae0ca25faa8b02e6330e8125d9d15a3c9f8357a Fred Harris <fredh@cse.unr.edu> 1610659111 +0000	commit: 2021 start2
+1ae0ca25faa8b02e6330e8125d9d15a3c9f8357a 03d86344fcb9fcfe6aac9822a7843ec766832e9b Fred Harris <fredh@cse.unr.edu> 1610659769 +0000	commit: 2020 dir
+03d86344fcb9fcfe6aac9822a7843ec766832e9b 1fc03d19dc9f38ca1a0c6261e99858be5edaaf31 Fred Harris <fredh@cse.unr.edu> 1610659941 +0000	commit: previous links
+1fc03d19dc9f38ca1a0c6261e99858be5edaaf31 0c6f46c24c7ab78e0daed35f89acf05b6d399ff9 Fred Harris <fredh@cse.unr.edu> 1610660222 +0000	commit: submission
+0c6f46c24c7ab78e0daed35f89acf05b6d399ff9 17a8a7179ff223df9f0036f5779d6416b4bcb74d Fred Harris <fredh@cse.unr.edu> 1610660399 +0000	commit: style
+17a8a7179ff223df9f0036f5779d6416b4bcb74d d72066fb352242035e2d96db69b40962f032685c Fred Harris <fredh@cse.unr.edu> 1610661978 +0000	commit: updates
+d72066fb352242035e2d96db69b40962f032685c 5c872d1521ff5ee25e9b894c4b6396c1c2fe93fb Fred Harris <fredh@cse.unr.edu> 1610734920 +0000	commit: top banner
+5c872d1521ff5ee25e9b894c4b6396c1c2fe93fb 24d4a8284a9598849d9944752d0da5448205f668 Fred Harris <fredh@cse.unr.edu> 1610735085 +0000	commit: top style
+24d4a8284a9598849d9944752d0da5448205f668 d0d361ce1ccb49e1c7cf2a448f0981561e74f1de Fred Harris <fredh@cse.unr.edu> 1610735208 +0000	commit: top style
+d0d361ce1ccb49e1c7cf2a448f0981561e74f1de f1713a3f812554699ddaaea1b1ace1889f0ad003 Fred Harris <fredh@cse.unr.edu> 1610735276 +0000	commit: top style
+f1713a3f812554699ddaaea1b1ace1889f0ad003 db8e9674350dcd5586a9c6f9bb1eb39f6509e1f1 Fred Harris <fredh@cse.unr.edu> 1610735819 +0000	commit: top style
+db8e9674350dcd5586a9c6f9bb1eb39f6509e1f1 24abea0a504ac0ae44ff31830697210786170e77 Fred Harris <fredh@cse.unr.edu> 1610735988 +0000	commit: top style
+24abea0a504ac0ae44ff31830697210786170e77 fddfbb33246e9170ded14f0eb364a441cb5a02c5 Fred Harris <fredh@cse.unr.edu> 1610736729 +0000	commit: top style
+fddfbb33246e9170ded14f0eb364a441cb5a02c5 f92027a5840bce0f68f329ce9073319a7db32366 Fred Harris <fredh@cse.unr.edu> 1610736788 +0000	commit: top style
+f92027a5840bce0f68f329ce9073319a7db32366 990f2fe623c28167e08d5d5232d57431b8ab36ef Fred Harris <fredh@cse.unr.edu> 1610736928 +0000	commit: top style
+990f2fe623c28167e08d5d5232d57431b8ab36ef 01a50ac58afeac6ab687105d4425a55cc15a7c78 Fred Harris <fredh@cse.unr.edu> 1623177547 +0000	commit: online update
+01a50ac58afeac6ab687105d4425a55cc15a7c78 da12023853a5efc3457ed76de7b9ae719ff1a4cf Fred Harris <fredh@cse.unr.edu> 1623179872 +0000	commit: online update
+da12023853a5efc3457ed76de7b9ae719ff1a4cf 8883743e2e5d12d58583da17907b66893445eb8d Fred Harris <fredh@cse.unr.edu> 1625701760 +0000	commit: date change
+8883743e2e5d12d58583da17907b66893445eb8d 7876a27122d8e07522902d3e23de77e329ec66c4 Fred Harris <fredh@cse.unr.edu> 1625701974 +0000	commit: date change
+7876a27122d8e07522902d3e23de77e329ec66c4 df0f81c9fa9714a894ddeba35f4db1c3a2e96f31 Fred Harris <fredh@cse.unr.edu> 1625702141 +0000	commit: date change
+df0f81c9fa9714a894ddeba35f4db1c3a2e96f31 3fcee9447bcb65124dc8c2d35ecacc8e4276cfab Fred Harris <fredh@cse.unr.edu> 1625702460 +0000	commit: date change
+3fcee9447bcb65124dc8c2d35ecacc8e4276cfab 68b222532cc1d1d7975d4bce61d4dc2b64d56dcc Fred Harris <fredh@cse.unr.edu> 1625702581 +0000	commit: date change
+68b222532cc1d1d7975d4bce61d4dc2b64d56dcc fa0baf0bbb3206d86ec868b1547515e457a82063 Fred Harris <fredh@cse.unr.edu> 1626109625 +0000	commit: Keynote info
+fa0baf0bbb3206d86ec868b1547515e457a82063 598cd766ff54a629bdf397f44bb4dca9b7dc9024 Fred Harris <fredh@cse.unr.edu> 1633389052 +0000	commit: 2021 program
+598cd766ff54a629bdf397f44bb4dca9b7dc9024 76a644b46715b17927c508c86770c8e2412927b1 Fred Harris <fredh@cse.unr.edu> 1633916409 +0000	commit: program address change
+76a644b46715b17927c508c86770c8e2412927b1 fa2eabd658c0b6cd00dc21b66058ec79c54697fb Fred Harris <fredh@cse.unr.edu> 1655143870 -0700	commit: 2022 starting push

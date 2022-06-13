@@ -1,0 +1,25 @@
+@media only screen and (max-device-width: 480px) {
+
+  .navigation ul {
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+     text-align: center;
+     font-size: 25px;
+     line-height: 60px;
+  }
+
+}
+
+@media only screen and (max-device-width: 768px) {
+
+  .navigation ul {
+     padding: 0;
+     margin: 0;
+     list-style-type: none;
+     text-align: center;
+     font-size: 25px;
+     line-height: 60px;
+  }
+
+}

@@ -1,0 +1,119 @@
+% This LaTex template is for manuscripts to be included in
+% ISCA conference proceedings.
+%
+\documentclass[letterpaper,twocolumn]{article}
+%
+\usepackage[raggedright]{titlesec}
+%
+% include packages as needed, such as
+%\usepackage{amsmath}
+%\usepackage{amsthm}
+%\usepackage{graphicx}
+%\usepackage[ruled,vlined]{algorithm2e}
+%\usepackage{array}
+%\usepackage{multirow}
+%\usepackage{url}
+%\usepackage{subfigure}
+%etc.
+
+%no page numbers
+\pagestyle{empty}
+
+\setlength{\textwidth}{7.0in}
+\setlength{\textheight}{9.125in}
+\setlength{\columnsep}{0.375in}
+\setlength{\topmargin}{-0.8in}
+\setlength{\oddsidemargin}{-0.25in}
+\setlength{\evensidemargin}{-0.25in}
+\setlength{\parindent}{0.125in}
+\setlength{\parskip}{1mm}
+
+\renewcommand\labelenumi{(\theenumi)}
+
+\date{}
+
+\titlespacing{\section}{0pt}{*2.0}{*2.0}
+\titlespacing{\subsection}{0pt}{*1.8}{*1.8}
+
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\textfraction}{0.1}
+
+\hyphenpenalty=5000
+\tolerance=1000
+
+\begin{document}
+
+% Change to your title
+\title{\Large\textbf{Latex Template for ISCA Conference Papers}\normalsize}
+
+%Chane authors, institutions and emails
+\author {John Doe and Jane Alan\\
+Department of Rocket Science, Some University\\
+City, State/Province, Zip/Post Code, Country\\
+(jdoe, jalen)@mailserver.edu
+}
+\maketitle 
+
+\thispagestyle{empty}
+
+\begin{center}
+\large\textbf{Abstract}
+\end{center}
+
+\vspace{2mm}
+Place the word \textbf{Abstract} (12-point bond Times Roman font) at the center of the column. Leave a space line below \textbf{Abstract} and then start the text (10-point Times Roman font) of the abstract of the paper. Limit the abstract to 200 words.
+
+\medskip
+\noindent
+\textbf{keywords:} This part is optional. The word \textbf{keywords} is flushed to the left (no indentation) with 10-point bold font. Include up to 6 keywords. %One space line below the abstract.
+
+\section{Introduction} 
+
+%The sections are just examples. You should make your own sections and sub-sections.
+
+\section{Related Work}
+
+\section{Methodology}
+
+\section{Experimental Results}
+
+\section{Conclusion}
+
+%You may put all reference items in a separate file, say myRef.bib, in bibTex format.
+%
+%Here is an example of a myRef.bib file that contains three reference items:
+%
+%@article{Liben-Nowell-2007,
+%author    = {David Liben-Nowell and Jon Kleinberg},
+%title     = {The Link Prediction Problem for Social Networks},
+%journal   = {Journal of the American Society for Information Science Technology},
+%volume    = {58},
+%number    = {7},
+%year      = {2007},
+%pages     = {1019–1031},
+%}
+%
+%@book{Han-2012,
+  %author    = {Jiawei Han and Micheline Kamber and Jian Pei},
+  %title     = {Data Mining Concepts and Techniques},
+  %year      = {2012},
+  %edition   = {3rd},
+  %publisher = {Morgan Kaufmann}
+%}
+%
+%@inproceedings{Agrawal-1994,
+  %author    = {Rakesh Agrawal and Ramakrishnan Srikant},
+  %title     = {Fast algorithms for mining association rules},
+  %booktitle = {Proceedings of the International Conference on Very Large Databases},
+  %year      = {1994},
+  %pages     = {487-499},
+  %publisher = {ACM Press}
+%}
+%
+%
+
+\bibliographystyle{plain}
+\bibliography{myRef} %change to your file name (with suffix .bib)
+
+
+\end{document} 
